@@ -1,0 +1,16 @@
+C:\Users\silvana tereza\DIO.catalogo\bin\Debug\net5.0\DIO.catalogo.exe
+C:\Users\silvana tereza\DIO.catalogo\bin\Debug\net5.0\DIO.catalogo.deps.json
+C:\Users\silvana tereza\DIO.catalogo\bin\Debug\net5.0\DIO.catalogo.runtimeconfig.json
+C:\Users\silvana tereza\DIO.catalogo\bin\Debug\net5.0\DIO.catalogo.runtimeconfig.dev.json
+C:\Users\silvana tereza\DIO.catalogo\bin\Debug\net5.0\DIO.catalogo.dll
+C:\Users\silvana tereza\DIO.catalogo\bin\Debug\net5.0\ref\DIO.catalogo.dll
+C:\Users\silvana tereza\DIO.catalogo\bin\Debug\net5.0\DIO.catalogo.pdb
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\DIO.catalogo.csproj.AssemblyReference.cache
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\DIO.catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\DIO.catalogo.AssemblyInfoInputs.cache
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\DIO.catalogo.AssemblyInfo.cs
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\DIO.catalogo.csproj.CoreCompileInputs.cache
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\DIO.catalogo.dll
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\ref\DIO.catalogo.dll
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\DIO.catalogo.pdb
+C:\Users\silvana tereza\DIO.catalogo\obj\Debug\net5.0\DIO.catalogo.genruntimeconfig.cache
