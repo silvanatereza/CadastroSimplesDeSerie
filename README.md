@@ -1,2 +1,2 @@
-# Projeto DIO/Avande 
+# Projeto Cadastro 
 ## Criando um APP simples de cadastro de séries em .NET
